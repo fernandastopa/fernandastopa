@@ -4,13 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fernandastopa/)
 
 ### About me
-I'm a student of System Analysis and Development, currently specializing in front-end with JavaScript and its frameworks.
 
-I'm 28 years old, and i live in Rio de Janeiro - Brazil.
+I'm a System Analysis and Development student. I'm currently developing my skills using JavaScript, Python and its Frameworks.
 
 ## Tech Skills
 
-My current focus is to master front-end development, acquiring more knowledge of JavaScript and its frameworks, as well as becoming familiar with other technologies.
+I'm focusing in master my front-end and back-end skills, learning more about JS, Python and its frameworks, as well as becoming familiar with other technologies.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
