@@ -5,7 +5,7 @@
 
 ## About me
 
-Currently, I'm focused on improving my skills in Python and its frameworks. And also learning a little more about JavaScript/React/HTML/CSS.
+I'm a System Development and Analysis student. Currently, I'm focused on improving my skills in Python and its frameworks. And also learning a little more about JavaScript/React/HTML/CSS.
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
