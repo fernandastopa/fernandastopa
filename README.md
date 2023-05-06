@@ -1,11 +1,11 @@
-# Hi, I'm Fernanda Stopa
+# Hi, I'm Fernanda :)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fernandastopa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fernandastopa/)
 
-## Tech Skills
+## About me
 
-I'm focusing in master my front-end and back-end skills, learning more about JS, Python and its frameworks, as well as becoming familiar with other technologies.
+Currently, I'm focused on improving my skills in Python and its frameworks. And also learning a little more about JavaScript/React/HTML/CSS.
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
