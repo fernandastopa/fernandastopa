@@ -3,10 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fernandastopa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fernandastopa/)
 
-### About me
-
-I'm a System Analysis and Development student. I'm currently developing my skills using JavaScript, Python and its Frameworks.
-
 ## Tech Skills
 
 I'm focusing in master my front-end and back-end skills, learning more about JS, Python and its frameworks, as well as becoming familiar with other technologies.
