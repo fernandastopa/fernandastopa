@@ -5,7 +5,9 @@
 
 ## About me
 
-I'm a System Development and Analysis student. Currently, I'm focused on improving my skills in Python and its frameworks. And also learning a little more about JavaScript/React/HTML/CSS.
+Back-end dev working mostly with Python, Django and DjangoREST.  
+Also curious about front-end stuff — React, JavaScript and friends.  
+Learning every day, building cool things, and always looking for new challenges.  
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
